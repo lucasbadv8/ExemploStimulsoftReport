@@ -1,0 +1,42 @@
+C:\Git\Samples-WPF-CSharp-master\Using Linq in Reports\bin\Debug\UsingLinqInReports.exe.config
+C:\Git\Samples-WPF-CSharp-master\Using Linq in Reports\bin\Debug\UsingLinqInReports.exe
+C:\Git\Samples-WPF-CSharp-master\Using Linq in Reports\bin\Debug\UsingLinqInReports.pdb
+C:\Git\Samples-WPF-CSharp-master\Using Linq in Reports\bin\Debug\Stimulsoft.Base.dll
+C:\Git\Samples-WPF-CSharp-master\Using Linq in Reports\bin\Debug\Stimulsoft.Database.Wpf.dll
+C:\Git\Samples-WPF-CSharp-master\Using Linq in Reports\bin\Debug\Stimulsoft.Report.Check.dll
+C:\Git\Samples-WPF-CSharp-master\Using Linq in Reports\bin\Debug\Stimulsoft.Report.dll
+C:\Git\Samples-WPF-CSharp-master\Using Linq in Reports\bin\Debug\Stimulsoft.Report.Helper.dll
+C:\Git\Samples-WPF-CSharp-master\Using Linq in Reports\bin\Debug\Stimulsoft.Report.Wpf.dll
+C:\Git\Samples-WPF-CSharp-master\Using Linq in Reports\bin\Debug\Stimulsoft.Report.WpfDesign.dll
+C:\Git\Samples-WPF-CSharp-master\Using Linq in Reports\bin\Debug\Stimulsoft.Editor.Wpf.dll
+C:\Git\Samples-WPF-CSharp-master\Using Linq in Reports\obj\Debug\Using Linq in Reports.csprojResolveAssemblyReference.cache
+C:\Git\Samples-WPF-CSharp-master\Using Linq in Reports\obj\Debug\Window1.baml
+C:\Git\Samples-WPF-CSharp-master\Using Linq in Reports\obj\Debug\Window1.g.cs
+C:\Git\Samples-WPF-CSharp-master\Using Linq in Reports\obj\Debug\App.g.cs
+C:\Git\Samples-WPF-CSharp-master\Using Linq in Reports\obj\Debug\UsingLinqInReports_MarkupCompile.cache
+C:\Git\Samples-WPF-CSharp-master\Using Linq in Reports\obj\Debug\UsingLinqInReports.g.resources
+C:\Git\Samples-WPF-CSharp-master\Using Linq in Reports\obj\Debug\UsingLinqInReports.Properties.Resources.resources
+C:\Git\Samples-WPF-CSharp-master\Using Linq in Reports\obj\Debug\Using Linq in Reports.csproj.GenerateResource.Cache
+C:\Git\Samples-WPF-CSharp-master\Using Linq in Reports\obj\Debug\UsingLinqInReports.exe
+C:\Git\Samples-WPF-CSharp-master\Using Linq in Reports\obj\Debug\UsingLinqInReports.pdb
+C:\Git\ProjetoApresentaçãoStimul\Using Linq in Reports\bin\Debug\UsingLinqInReports.exe.config
+C:\Git\ProjetoApresentaçãoStimul\Using Linq in Reports\obj\Debug\UsingLinqInReports.exe
+C:\Git\ProjetoApresentaçãoStimul\Using Linq in Reports\obj\Debug\UsingLinqInReports.pdb
+C:\Git\ProjetoApresentaçãoStimul\Using Linq in Reports\bin\Debug\UsingLinqInReports.exe
+C:\Git\ProjetoApresentaçãoStimul\Using Linq in Reports\bin\Debug\UsingLinqInReports.pdb
+C:\Git\ProjetoApresentaçãoStimul\Using Linq in Reports\bin\Debug\Stimulsoft.Base.dll
+C:\Git\ProjetoApresentaçãoStimul\Using Linq in Reports\bin\Debug\Stimulsoft.Database.Wpf.dll
+C:\Git\ProjetoApresentaçãoStimul\Using Linq in Reports\bin\Debug\Stimulsoft.Report.Check.dll
+C:\Git\ProjetoApresentaçãoStimul\Using Linq in Reports\bin\Debug\Stimulsoft.Report.dll
+C:\Git\ProjetoApresentaçãoStimul\Using Linq in Reports\bin\Debug\Stimulsoft.Report.Helper.dll
+C:\Git\ProjetoApresentaçãoStimul\Using Linq in Reports\bin\Debug\Stimulsoft.Report.Wpf.dll
+C:\Git\ProjetoApresentaçãoStimul\Using Linq in Reports\bin\Debug\Stimulsoft.Report.WpfDesign.dll
+C:\Git\ProjetoApresentaçãoStimul\Using Linq in Reports\bin\Debug\Stimulsoft.Editor.Wpf.dll
+C:\Git\ProjetoApresentaçãoStimul\Using Linq in Reports\obj\Debug\Using Linq in Reports.csprojResolveAssemblyReference.cache
+C:\Git\ProjetoApresentaçãoStimul\Using Linq in Reports\obj\Debug\Window1.baml
+C:\Git\ProjetoApresentaçãoStimul\Using Linq in Reports\obj\Debug\Window1.g.cs
+C:\Git\ProjetoApresentaçãoStimul\Using Linq in Reports\obj\Debug\App.g.cs
+C:\Git\ProjetoApresentaçãoStimul\Using Linq in Reports\obj\Debug\UsingLinqInReports_MarkupCompile.cache
+C:\Git\ProjetoApresentaçãoStimul\Using Linq in Reports\obj\Debug\UsingLinqInReports.g.resources
+C:\Git\ProjetoApresentaçãoStimul\Using Linq in Reports\obj\Debug\UsingLinqInReports.Properties.Resources.resources
+C:\Git\ProjetoApresentaçãoStimul\Using Linq in Reports\obj\Debug\Using Linq in Reports.csproj.GenerateResource.Cache

@@ -1,0 +1,42 @@
+﻿<Window x:Class="Variaveis.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Usando Variáveis" SizeToContent="WidthAndHeight" 
+    WindowStartupLocation="CenterScreen" Icon="/Variaveis;component/app.net.ico" ResizeMode="NoResize">
+    <StackPanel Orientation="Vertical">
+        <GroupBox Header="Cadastro" Margin="4">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                    <RowDefinition />
+                    <RowDefinition />
+                    <RowDefinition />
+                    <RowDefinition />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <TextBlock Margin="4" Grid.Column="0" Grid.Row="0" TextAlignment="Right">Nome</TextBlock>
+                <TextBlock Margin="4" Grid.Column="0" Grid.Row="1" TextAlignment="Right">Sobrenome</TextBlock>
+                <TextBlock Margin="4" Grid.Column="0" Grid.Row="2" TextAlignment="Right">E-Mail</TextBlock>
+                <TextBlock Margin="4" Grid.Column="0" Grid.Row="3" TextAlignment="Right">Endereço</TextBlock>
+                <TextBlock Margin="4" Grid.Column="0" Grid.Row="4" TextAlignment="Right">Sexo</TextBlock>
+                <TextBox Margin="4" Name="TbNome" Grid.Column="1" Grid.Row="0"/>
+                <TextBox Margin="4" Name="TbSobrenome" Grid.Column="1" Grid.Row="1"/>
+                <TextBox Margin="4" Name="TbEmail" Grid.Column="1" Grid.Row="2"/>
+                <TextBox Margin="4" Name="TbEndereco" Grid.Column="1" Grid.Row="3"/>
+                <StackPanel Grid.Column="1" Grid.Row="4" VerticalAlignment="Center" Orientation="Horizontal">
+                    <RadioButton Name="RbM" Margin="4" IsChecked="True">M</RadioButton>
+                    <RadioButton Name="RbF" Margin="4">F</RadioButton>
+                </StackPanel>
+            </Grid>
+        </GroupBox>
+        <DockPanel LastChildFill="false" Margin="4">
+            <Button Name="ButtonClose" Width="80" DockPanel.Dock="Right" Margin="4" Click="Close_Click">Fechar</Button>
+            <Button Name="ButtonPreview" Width="80" DockPanel.Dock="Right" Margin="4" Click="Imprimir_Click">Imprimir</Button>
+            <Button Name="ButtonDesign" Width="80" DockPanel.Dock="Right" Margin="4" Click="Design_Click">Design</Button>
+        </DockPanel>
+    </StackPanel>
+</Window>

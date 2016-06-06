@@ -1,0 +1,12 @@
+﻿<Window x:Class="UsandoLista.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Usando Linq" SizeToContent="WidthAndHeight" WindowStartupLocation="CenterScreen" Icon="/UsandoLista;component/app.net.ico" ResizeMode="NoResize">
+    <DockPanel LastChildFill="false" MinHeight="100">
+        <StackPanel Orientation="Horizontal" DockPanel.Dock="Bottom">
+            <Button MinWidth="100" Margin="4" Name="BtImprimir" Click="Imprimir_Click">Imprimir</Button>
+            <Button MinWidth="100" Margin="4" Name="BtDesign" Click="Design_Click">Design</Button>
+            <Button MinWidth="100" Margin="4" Name="BtFechar" Click="Fechar_Click">Fechar</Button>
+        </StackPanel>
+    </DockPanel>
+</Window>
